@@ -31,9 +31,9 @@ const HeroSection = () => {
       <div className="space-y-6 text-center">
         <div className="space-y-6 mx-auto">
           <h1 className="text-5xl font-bold md:text-6xl lg:text-7xl xl:text-8xl gradient-title animate-gradient">
-            Your AI Career Coach for
+            Your AI Teacher Who Never
             <br />
-            Professional Success
+            Sleep Or Complain
           </h1>
           <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl">
             Advance your career with personalized guidance, interview prep, and
@@ -46,7 +46,7 @@ const HeroSection = () => {
               Get Started
             </Button>
           </Link>
-          <Link href="https://www.youtube.com/roadsidecoder">
+          <Link href="">
             <Button size="lg" variant="outline" className="px-8">
               Watch Demo
             </Button>
